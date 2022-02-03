@@ -1,0 +1,15 @@
+C:\Users\90542\Desktop\Pratikler Devam\DateTimeMath\bin\Debug\net6.0\DateTimeMath.exe
+C:\Users\90542\Desktop\Pratikler Devam\DateTimeMath\bin\Debug\net6.0\DateTimeMath.deps.json
+C:\Users\90542\Desktop\Pratikler Devam\DateTimeMath\bin\Debug\net6.0\DateTimeMath.runtimeconfig.json
+C:\Users\90542\Desktop\Pratikler Devam\DateTimeMath\bin\Debug\net6.0\DateTimeMath.dll
+C:\Users\90542\Desktop\Pratikler Devam\DateTimeMath\bin\Debug\net6.0\ref\DateTimeMath.dll
+C:\Users\90542\Desktop\Pratikler Devam\DateTimeMath\bin\Debug\net6.0\DateTimeMath.pdb
+C:\Users\90542\Desktop\Pratikler Devam\DateTimeMath\obj\Debug\net6.0\DateTimeMath.csproj.AssemblyReference.cache
+C:\Users\90542\Desktop\Pratikler Devam\DateTimeMath\obj\Debug\net6.0\DateTimeMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90542\Desktop\Pratikler Devam\DateTimeMath\obj\Debug\net6.0\DateTimeMath.AssemblyInfoInputs.cache
+C:\Users\90542\Desktop\Pratikler Devam\DateTimeMath\obj\Debug\net6.0\DateTimeMath.AssemblyInfo.cs
+C:\Users\90542\Desktop\Pratikler Devam\DateTimeMath\obj\Debug\net6.0\DateTimeMath.csproj.CoreCompileInputs.cache
+C:\Users\90542\Desktop\Pratikler Devam\DateTimeMath\obj\Debug\net6.0\DateTimeMath.dll
+C:\Users\90542\Desktop\Pratikler Devam\DateTimeMath\obj\Debug\net6.0\ref\DateTimeMath.dll
+C:\Users\90542\Desktop\Pratikler Devam\DateTimeMath\obj\Debug\net6.0\DateTimeMath.pdb
+C:\Users\90542\Desktop\Pratikler Devam\DateTimeMath\obj\Debug\net6.0\DateTimeMath.genruntimeconfig.cache
